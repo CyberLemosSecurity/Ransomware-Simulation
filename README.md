@@ -56,12 +56,14 @@ Unexpected file creation:
 
 ## Using Sysmon
 Relevant Events
-Event ID 1 → Process creation
-Event ID 11 → File creation
 Log Path
 ```
 Event Viewer → Applications and Services Logs → Microsoft → Windows → Sysmon → Operational
 ```
+<img width="1364" height="255" alt="image" src="https://github.com/user-attachments/assets/e61fda31-3a1f-4985-8e5d-7d8c8b1d4d91" />
+
+<img width="624" height="367" alt="image" src="https://github.com/user-attachments/assets/5facd93f-8126-4625-82fd-58ecaf5aaecc" />
+
 
 ## Critical Analysis
 
