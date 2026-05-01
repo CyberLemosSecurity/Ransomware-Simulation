@@ -82,7 +82,3 @@ Implement behavior-based detection
 ## conclusion
 
 This lab demonstrates how simple social engineering attacks can lead to suspicious command execution, reinforcing the importance of behavioral detection and continuous monitoring.
-
-<img width="1364" height="255" alt="image" src="https://github.com/user-attachments/assets/e61fda31-3a1f-4985-8e5d-7d8c8b1d4d91" />
-
-<img width="624" height="367" alt="image" src="https://github.com/user-attachments/assets/5facd93f-8126-4625-82fd-58ecaf5aaecc" />
